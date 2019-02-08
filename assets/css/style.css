@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 6, 2019, 3:09:35 PM
+    Author     : smsc
+*/
+/*1.home page styles*/
+.top-strip{
+    background-image: linear-gradient(to right,#3a6186,#89253e);
+    height:30px;
+}
+.top-strip a {
+    color: white !important;
+}
+nav ul{
+    float:right !important;
+}
+.child li{
+    margin-left:-20px !important;
+}
+.child{
+    margin-left:40px;
+}
+.main-menu img{
+    height:100px !important;
+}
+
+
+
