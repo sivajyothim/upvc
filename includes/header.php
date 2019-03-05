@@ -49,8 +49,8 @@
                  <ul class="dropdown-menu">
                     <li class="dropdown-submenu"><a class="test" tabindex="-1" href="#">Upvc Windows<span class="caret"></span>
                       <ul class="dropdown-menu">
-                        <li><a tabindex="-1" href="#">Sliding Window</a></li>
-                        <li><a tabindex="-1" href="#">Casement Window</a></li>
+                        <li><a  href="#">Sliding Window</a></li>
+                        <li><a  href="#">Casement Window</a></li>
                       </ul>
                      <li><a href="seo-services.php">upvc doors</a></li>
                   </ul>
