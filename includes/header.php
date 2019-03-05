@@ -1,24 +1,78 @@
-<!--header code started-->
-<nav class="navbar navbar-default top-strip">
-    <ul class="nav navbar-nav parant">
-        <li ><a href="#"><i class="fa fa-phone" aria-hidden="true"></i>
+<header>
+    <div class="container">
+      <div class="logo"><a href="index.php"><img src="images/rsz_khyathi.png" class="img-responsive" alt="KHYATHI ENTERPRISES" /></a></div>
+	  
+	   <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+      <div class="contact-info">
+         <!-- <div class="info">
+        	<a href="tel:022 65964888" ><img src="images/call.png" class="img-responsive call"></a> <div class="text"><p> PHONE </p> <p>022 65964888 </p> </div>
+          </div>-->
+          
+          <div class="info">
+        	<img src="images/mobile.png" class="img-responsive mobile" alt="Call Now"> <div class="text"><p> CALL US </p> <p> <a href="tel:+91  96400 86373" >+91  96400 86373</a> </p> </div>
+          </div>
+          <div class="info">
+        	<img src="images/email.png" class="img-responsive mobile" alt="Email"> <div class="text"><p> EMAIL US </p> <p> <a href="mailto:office@khyathiupvc.com" >office@khyathiupvc.com</a> </p> </div>
+          </div><br>
+		  
 
-                011-42368600</a></li>
-        <li><a href="#">info.india@jyohti-group.com</a></li>
-        <ul class="nav navbar-nav child">
-            <li ><a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></a></i>
-            <li ><a href="#"><i class="fa fa-twitter" aria-hidden="true"></a></i>
-            <li ><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></a></i>
-            <li ><a href="#"><i class="fa fa-instagram" aria-hidden="true"></a></i>
-            <li ><a href="#"><i class="fa fa-google-plus-official" aria-hidden="true"></a></i>
-        </ul>
-    </ul>
-</nav>
-<nav class="navbar main-menu">
-        <img src="assets/images/jyothi-logo.png" class="img-responsive"/>
-</nav>
+          
+     </div>
+     </div><!---- ====== End of Container ====== ---->
+    </header>
+  <!---- ====== End of Header ====== ---->
 
+   
+     <nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+        <p class="navbar-text menu"></p>
+		
+        <p class="call-info">     
+        <span>Call Us : <a href="tel:+91 7331176156" ><i class="fa fa-mobile"></i> +91 7331176156</a></span></p>
+        
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="index.php" class="active">Home</a></li>
+            <li><a href="about-us.php">About Us </a>  </li>
+              
 
-<!--header code end-->
+           
+           <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
+                 <ul class="dropdown-menu">
+                    <li class="dropdown-submenu"><a class="test" tabindex="-1" href="#">Upvc Windows<span class="caret"></span>
+                      <ul class="dropdown-menu">
+                        <li><a tabindex="-1" href="#">Sliding Window</a></li>
+                        <li><a tabindex="-1" href="#">Casement Window</a></li>
+                      </ul>
+                     <li><a href="seo-services.php">upvc doors</a></li>
+                  </ul>
+          </li>
+         		<li><a href="portfolio.php">gallary</a></li>
+          
+          
+          
+			<li><a href="careers.php">Careers</a></li>
+            <li><a href="contact-us.php">Contact</a></li>
+          </ul>
+		            		           <div class="social-icons">
+          <ul>
+              <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+              <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+          </ul>
+          </div>
 
-
+         
+        </div><!-- ====== /.nav-collapse ====== -->
+      </div>
+    </nav>
+    
