@@ -41,20 +41,21 @@
           <ul class="nav navbar-nav">
             <li><a href="index.php" class="active">Home</a></li>
             <li><a href="about-us.php">About Us </a>  </li>
-              
-
-           
-           <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
+            <li class="dropdown">
+                <a href="upvc-windows.php">Upvc Windows <span class="caret"></span></a>
                  <ul class="dropdown-menu">
-                    <li class="dropdown-submenu"><a class="test" tabindex="-1" href="#">Upvc Windows<span class="caret"></span>
-                      <ul class="dropdown-menu">
-                        <li><a  href="#">Sliding Window</a></li>
-                        <li><a  href="#">Casement Window</a></li>
-                      </ul>
-                     <li><a href="seo-services.php">upvc doors</a></li>
+                    <li><a href="sliding-windows.php">sliding Windows
+                     <li><a href="casement-windows.php">casement Windows</a></li>
                   </ul>
-          </li>
+            </li>
+            <li class="dropdown">
+                <a href="upvc-doors.php">Upvc Doors <span class="caret"></span></a>
+                 <ul class="dropdown-menu">
+                    <li><a href="sliding-doors.php">sliding doors</a></li>
+                    <li><a href="bi-fold-doors.php">Bi-fold doors</a></li>
+                    <li><a href="panel-doors.php">panel doors</a></li>
+                  </ul>
+            </li>
          		<li><a href="portfolio.php">gallary</a></li>
           
           
