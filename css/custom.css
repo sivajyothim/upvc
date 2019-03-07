@@ -3339,3 +3339,11 @@ color : #b05608;
       color: #fff;
       
 }
+/*product image styles start*/
+.pro_img img{
+    width:200px;
+    height: 190px;
+}
+.pro_detail_img img{
+}
+/*product image styles end*/
