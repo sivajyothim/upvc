@@ -4,7 +4,7 @@
 
 body {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 16px;
+	font-size: 13px;
 	line-height: 24px;
 	font-weight: 300;
 	color: #000;
@@ -148,7 +148,7 @@ color: #3e3e3e;
     font-family: 'Open Sans', sans-serif;
     /* letter-spacing: 1px; */
     font-size: 14px;
-    FONT-WEIGHT: 600;
+    /*FONT-WEIGHT: 600;*/
     letter-spacing: .5px;
     line-height: 25px;}
 b, strong {
@@ -3339,11 +3339,26 @@ color : #b05608;
       color: #fff;
       
 }
-/*product image styles start*/
+/*jyothi styles start*/
 .pro_img img{
     width:200px;
     height: 190px;
 }
-.pro_detail_img img{
+.pro_detail img{
+    margin-top: 15px;
+    border: 1px solid gainsboro;
+    padding: 55px;
 }
-/*product image styles end*/
+.tabs_class a{
+    color:black;
+    text-transform:uppercase;
+    font-size:12px;
+}
+.pro_detail h4{
+    margin-top:50px
+}
+.sliding_sd_img{
+    width:670px;
+    margin-left: 85px;
+}
+/*jyothi styles end*/

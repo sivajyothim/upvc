@@ -4,7 +4,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>KHYATHI ENTERPRISES || upvc windows</title>
+        <title>KHYATHI ENTERPRISES || upvc casement windows</title>
         <meta name="description" content=""/>
 
         <meta name="keywords" content=""/>
@@ -41,49 +41,113 @@
             <div class="container">
                 <ol class="breadcrumb">
                     <li><a href="index.html">Home</a></li>
-                    <li> <a href="#">products</a></li>
-                    <li class="active">upvc windows</li>
+                    <li> <a href="#">upvc windows</a></li>
+                    <li class="active">casement windows</li>
                 </ol>
             </div>
         </section>
-        <section class="about features">
-            <div class="container">
-                <div class="row">
-                    <h1 class="text-center"> Upvc Windows </h1>
-                    <span class="line"> <span class="sub-line"></span> </span>
-                    <div class="col-lg-8 col-md-8">
-                        <p>As rigorous believers of sculpting perfection into your dream houses we work towards adding peace to your corners. Our channel partners being aware of havocs faced by one during weather changes has endured to work towards guarding our clients from the same. The impressively weather proof uPVC windows keep the insides of your home well shielded against the hassles of climes.</p>
-                        <p>Against the monotonous and weather clumsy wooden windows the water proof uPVC windows are designed to accentuate the placidity of your dwelling in monsoons. The monsoon proof uPVC windows are impervious to water and shield your house from water spurring in the insides during rainfall. Moreover the Sound proof uPVC windows are a better choice to keep you free of external noise chaos hence assimilating peaceful environs in the insides. The minimal maintenance makes them a cost-effective option for your dream house. The uPVC windows are durable and long lasting which is another advantage of these over the traditional windows.
-                        </p>
-                        <p>Your house epitomizes your character and elegance, hence has to be timeless as regards appearance. Shielding the insides from weather hassles keeps your house stand tough against time and weather. We at koemmerling endeavour to give your house a timeless dignity.
-                        </p>
-                    </div>
-                    <div class="col-lg-4 col-md-4">
+        <div class="container pro_detail">
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="images/products/cascade-window.jpg"/>
+                </div>
+                <div class="col-md-8">
+                    <h4>CASEMENT WINDOWS</h4><hr/>
+                    <strong>Overview</strong>
+                    <p>Practical and Simple, designed to suit your home whatever is its style, KOEMMERLING casement windows are among the most popular window designs.</p>
+                    <p>Hard-wearing material used in KOEMMERLING casement windows is virtually maintenance-free.</p>
+                    <p>KOEMMERLING uPVC casement window are tailor-made to virtually any height and width, you can have this classic window made to your exact requirement. Plus, your casement windows will be fitted to the highest standards and also provides easy cleaning of the outer glass panes.</p>
+                </div>
+            </div>
+        </div>
+        <div class="container tabs_class">
+            <div class="row"><br/>
+                <h4>TECHNICAL INFORMATION</h4><hr/>
+                <ul class="nav nav-pills nav-stacked col-md-2">
+                    <li class="active"><a href="#tab_a" data-toggle="pill">Friction Stay outward Opening</a></li>
+                    <li><a href="#tab_b" data-toggle="pill">Hinge outward and inward</a></li>
+                    <li><a href="#tab_c" data-toggle="pill">sectional drawing</a></li>
+                </ul>
+                <div class="tab-content col-md-10">
+                    <div class="tab-pane active" id="tab_a">
                         <div class="row">
-                            <img class="img-responsive" src="images/upvc-window-add.jpg"/>
+                        <div class="col-md-4">
+                            <h4>Single Glass</h4>
+                            <img src="images/products/casement-window-single-glass.jpg"/>
+                            <p><strong>Glass</strong>: Single Glass</p>
+                            <p><strong>Profile System</strong>: Gold Asea</p>
+                            <p>Size for Design of single sash in frame</p>
+                            <p><strong>Height of Frame</strong></p>
+                            <p>2Sash French Window Max. Width: 750mm per Sash</p>
+
+
                         </div>
+                        <div class="col-md-8">
+                            <table class="table-bordered" border="0" width="100%" cellspacing="0" cellpadding="8" bgcolor="#ffffff"><tbody><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>1500</strong></td><td scope="col" align="center" valign="middle" bgcolor="#2981a0"></td><td scope="col" align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td scope="col" align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>1200</strong></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>1000</strong></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>800</strong></td><td align="center" valign="middle" bgcolor="#00213f"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#00213f"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>600</strong></td><td align="center" valign="middle" bgcolor="#00213f"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#00213f"></td><td align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>400</strong></td><td align="center" valign="middle" bgcolor="#00213f"></td><td align="center" valign="middle" bgcolor="#00213f"></td><td align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" bgcolor="#f2f2f2"></td><td align="center" valign="middle" bgcolor="#f2f2f2">400</td><td align="center" valign="middle" bgcolor="#f2f2f2">600</td><td align="center" valign="middle" bgcolor="#f2f2f2">750</td></tr></tbody></table>                        
+                            <p class="text-right"><strong>Outside Width of Frame</strong></p>
+                            <table class="last-table" border="0" width="100%" cellspacing="0" cellpadding="8"><tbody><tr><td scope="col" bgcolor="#2981a0" width="7%"></td><td scope="col" width="1%"></td><td scope="col" align="left" width="92%">Multi Point Lock (Handle + Espag.)</td></tr><tr><td bgcolor="#00213f"></td><td></td><td>Single Point Lock (Cockspur Handle) &amp; Multi Point Lock</td></tr></tbody></table>                    </div>
+                        </div><!--row end-->
+                        <hr/>
+                        <div class="row">
+                        <div class="col-md-4">
+                            <h4>Double Glass</h4>
+                            <img src="images/products/casement-window-double-glass.jpg"/>
+                            <p><strong>Glass</strong>: Double Glass</p>
+                            <p><strong>Profile System</strong>: Gold Asea</p>
+                            <p>Size for Design of single sash in frame</p>
+                            <p><strong>Height of Frame</strong></p>
+                            <p>2Sash French Window Max. Width: 750mm per Sash</p>
+
+
+                        </div>
+                        <div class="col-md-8">
+                            <table class="table-bordered" border="0" width="100%" cellspacing="0" cellpadding="8" bgcolor="#ffffff"><tbody><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>1500</strong></td><td scope="col" align="center" valign="middle" bgcolor="#2981a0"></td><td scope="col" align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td scope="col" align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>1200</strong></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>1000</strong></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>800</strong></td><td align="center" valign="middle" bgcolor="#00213f"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#00213f"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>600</strong></td><td align="center" valign="middle" bgcolor="#00213f"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#00213f"></td><td align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>400</strong></td><td align="center" valign="middle" bgcolor="#00213f"></td><td align="center" valign="middle" bgcolor="#00213f"></td><td align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" bgcolor="#f2f2f2"></td><td align="center" valign="middle" bgcolor="#f2f2f2">400</td><td align="center" valign="middle" bgcolor="#f2f2f2">600</td><td align="center" valign="middle" bgcolor="#f2f2f2">750</td></tr></tbody></table>                        
+                            <p class="text-right"><strong>Outside Width of Frame</strong></p>
+                            <table class="last-table" border="0" width="100%" cellspacing="0" cellpadding="8"><tbody><tr><td scope="col" bgcolor="#2981a0" width="7%"></td><td scope="col" width="1%"></td><td scope="col" align="left" width="92%">Multi Point Lock (Handle + Espag.)</td></tr><tr><td bgcolor="#00213f"></td><td></td><td>Single Point Lock (Cockspur Handle) &amp; Multi Point Lock</td></tr></tbody></table>                    </div>
+                        </div><!--row end-->
+                    </div><!--taba end-->
+                    <div class="tab-pane" id="tab_b">
+                        <div class="row">
+                        <div class="col-md-4">
+                            <h4>Single Glass</h4>
+                            <p><strong>Glass</strong>: Single Glass</p>
+                            <p><strong>Profile System</strong>: Gold Asea</p>
+                            <p>Size for Design of single sash in frame</p>
+                            <p><strong>Height of Frame</strong></p>
+                            <p>2Sash French Window Max. Width: 750mm per Sash</p>
+
+
+                        </div>
+                        <div class="col-md-8">
+                            <table class="table-bordered" border="0" width="100%" cellspacing="0" cellpadding="8" bgcolor="#ffffff"><tbody><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>1500</strong></td><td scope="col" align="center" valign="middle" bgcolor="#2981a0"></td><td scope="col" align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td scope="col" align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>1200</strong></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>1000</strong></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>800</strong></td><td align="center" valign="middle" bgcolor="#00213f"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#00213f"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>600</strong></td><td align="center" valign="middle" bgcolor="#00213f"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#00213f"></td><td align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>400</strong></td><td align="center" valign="middle" bgcolor="#00213f"></td><td align="center" valign="middle" bgcolor="#00213f"></td><td align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" bgcolor="#f2f2f2"></td><td align="center" valign="middle" bgcolor="#f2f2f2">400</td><td align="center" valign="middle" bgcolor="#f2f2f2">600</td><td align="center" valign="middle" bgcolor="#f2f2f2">750</td></tr></tbody></table>                        
+                            <p class="text-right"><strong>Outside Width of Frame</strong></p>
+                            <table class="last-table" border="0" width="100%" cellspacing="0" cellpadding="8"><tbody><tr><td scope="col" bgcolor="#2981a0" width="7%"></td><td scope="col" width="1%"></td><td scope="col" align="left" width="92%">Multi Point Lock (Handle + Espag.)</td></tr><tr><td bgcolor="#00213f"></td><td></td><td>Single Point Lock (Cockspur Handle) &amp; Multi Point Lock</td></tr></tbody></table>                    </div>
+                        </div><!--row end-->
+                        <hr/>
+                        <div class="row">
+                        <div class="col-md-4">
+                            <h4>Double Glass</h4>
+                            <p><strong>Glass</strong>: Double Glass</p>
+                            <p><strong>Profile System</strong>: Gold Asea</p>
+                            <p>Size for Design of single sash in frame</p>
+                            <p><strong>Height of Frame</strong></p>
+                            <p>2Sash French Window Max. Width: 750mm per Sash</p>
+
+
+                        </div>
+                        <div class="col-md-8">
+                            <table class="table-bordered" border="0" width="100%" cellspacing="0" cellpadding="8" bgcolor="#ffffff"><tbody><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>1500</strong></td><td scope="col" align="center" valign="middle" bgcolor="#2981a0"></td><td scope="col" align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td scope="col" align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>1200</strong></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>1000</strong></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>800</strong></td><td align="center" valign="middle" bgcolor="#00213f"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#00213f"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>600</strong></td><td align="center" valign="middle" bgcolor="#00213f"><img class="alignnone wp-image-380 size-full" src="https://www.koemmerling.co.in/wp-content/uploads/2017/09/White_check-e1506427689753.png" alt="yes" width="15" height="15"></td><td align="center" valign="middle" bgcolor="#00213f"></td><td align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" valign="middle" bgcolor="#f2f2f2"><strong>400</strong></td><td align="center" valign="middle" bgcolor="#00213f"></td><td align="center" valign="middle" bgcolor="#00213f"></td><td align="center" valign="middle" bgcolor="#2981a0"></td></tr><tr><td align="center" bgcolor="#f2f2f2"></td><td align="center" valign="middle" bgcolor="#f2f2f2">400</td><td align="center" valign="middle" bgcolor="#f2f2f2">600</td><td align="center" valign="middle" bgcolor="#f2f2f2">750</td></tr></tbody></table>                        
+                            <p class="text-right"><strong>Outside Width of Frame</strong></p>
+                            <table class="last-table" border="0" width="100%" cellspacing="0" cellpadding="8"><tbody><tr><td scope="col" bgcolor="#2981a0" width="7%"></td><td scope="col" width="1%"></td><td scope="col" align="left" width="92%">Multi Point Lock (Handle + Espag.)</td></tr><tr><td bgcolor="#00213f"></td><td></td><td>Single Point Lock (Cockspur Handle) &amp; Multi Point Lock</td></tr></tbody></table>                    </div>
+                        </div><!--row end-->
                     </div>
-                </div>
-            </div>
-            <div class="container pro_img">
-                <div class="row">
-                    <div class="col-md-6">
-                        <h5 class="">UPVC Casement Windows</h5>
-                        <img src="images/products/cascade-window.jpg" class="img-responsive"/>
-                        <p>The Casement window opens inwards or outwards with the help of a sash that fixed on outer frame</p>
-                        Practical and Simple, designed to suit your home whatever is its style, KHYATHI ENTERPRISEScasement windows are among the most popular window designs…
-                        <a href="#" style="color:blue">know more</a>
+                    <div class="tab-pane sliding_sd_img" id="tab_c">
+                        <img src="images/Casement-Window-SD.jpg"/>
                     </div>
-                    <div class="col-md-6">
-                        <h5>Sliding Windows</h5>
-                        <img src="images/products/sliding-windows.jpg" class="img-responsive"/>
-                        <p>In Sliding Window two or more frames slide horizontally on tracks to the left or the right</p>
-                        The windows are slightly raised above the track for smooth slide and also preventing dust from settling down in the track. Sliding windows are ideal for homes that require space-economy…
-                        <a href="#" style="color:blue">know more</a>
-                    </div>
-                </div>
-            </div>
-        </section>
+
+                </div><!-- tab content -->
+            </div><!--end of row-->
+        </div><!-- end of container -->
         <?php include('includes/footer.php'); ?>
 
 
