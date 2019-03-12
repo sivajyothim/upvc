@@ -86,7 +86,7 @@
                     <div class="col-md-4">
                         <h5>panel door</h5>
                         <img src="images/products/panel-door.jpg" class="img-responsive"/>
-                        <p>Making a great first impression on your door step, exclusively designed, KOEMMERLING doors are the perfect way to add charm and character to your home.</p>
+                        <p>Making a great first impression on your door step, exclusively designed, khyathi doors are the perfect way to add charm and character to your home.</p>
                         ..<a href="#" style="color:blue">know more</a>
                     </div>
                 </div>
