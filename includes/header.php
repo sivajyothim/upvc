@@ -44,7 +44,7 @@
             <li class="dropdown">
                 <a href="upvc-windows.php">Upvc Windows <span class="caret"></span></a>
                  <ul class="dropdown-menu">
-                    <li><a href="sliding-windows.php">sliding Windows
+                     <li><a href="sliding-windows.php">sliding Windows</a>
                      <li><a href="casement-windows.php">casement Windows</a></li>
                   </ul>
             </li>
@@ -56,7 +56,7 @@
                     <li><a href="panel-doors.php">panel doors</a></li>
                   </ul>
             </li>
-         		<li><a href="portfolio.php">gallary</a></li>
+         		<li><a href="#">gallary</a></li>
           
           
           

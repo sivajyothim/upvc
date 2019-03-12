@@ -32,7 +32,7 @@
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
     </head>
-  
+
     <body>
 
         <?php include('includes/header.php'); ?>
@@ -150,7 +150,7 @@
 
 
 
-     
+
 
 
 
@@ -161,11 +161,65 @@
                 <div class="row">
                     <h2> Our <span>products </span> </h2>
                     <ul id="client">
-                        <li><a href="http://khyathiupvc.com/" title="cascade-window"><img src="images/products/cascade-window.jpg" alt="#"></a></li>
-                        <li><a href="http://khyathiupvc.com/" title="sliding-windows"><img src="images/products/sliding-windows.jpg" alt="#"></a></li>
-                        <li><a href="http://khyathiupvc.com/" title="sliding-doors"><img src="images/products/sliding-doors.png" alt="#"></a></li>
-                        <li><a href="http://khyathiupvc.com/" title="panel-door"><img src="images/products/panel-door.jpg" alt="#"></a></li>
-                        <li><a href="http://khyathiupvc.com/" title="bi-fold-door"><img src="images/products/bi-fold-door.jpg" alt="#"></a></li>
+                        <li>
+                            <div class="card rounded">
+                                <div class="card-image">
+                                    <a href="casement-windows.php" title="cascade-window">
+                                        <img src="images/products/cascade-window.jpg" alt="#"></a>
+                                </div>
+                                <div class="card-body text-center">
+                                    <div class="ad-title m-auto">
+                                        <h5>cascade-window</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="card rounded">
+                                <div class="card-image">
+                                    <a href="sliding-windows.php" title="sliding-windows"><img src="images/products/sliding-windows.jpg" alt="#"></a>
+                                </div>
+                                <div class="card-body text-center">
+                                    <div class="ad-title m-auto">
+                                        <h5>sliding-windows</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="card rounded">
+                                <div class="card-image">
+                                    <a href="sliding-doors.php" title="sliding-doors"><img src="images/products/sliding-doors.png" alt="#"></a>
+                                </div>
+                                <div class="card-body text-center">
+                                    <div class="ad-title m-auto">
+                                        <h5>sliding-doors</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="card rounded">
+                                <div class="card-image">
+                                    <a href="panel-doors.php" title="panel-door"><img src="images/products/panel-door.jpg" alt="#"></a>                                </div>
+                                <div class="card-body text-center">
+                                    <div class="ad-title m-auto">
+                                        <h5>panel-doors</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="card rounded">
+                                <div class="card-image">
+                                    <a href="bi-fold-doors.php" title="bi-fold-door"><img src="images/products/bi-fold-door.jpg" alt="#"></a>                                <div class="card-body text-center">
+                                        <div class="ad-title m-auto">
+                                            <h5>bi-fold-door</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
                     </ul>
                 </div>
             </div>
