@@ -75,19 +75,19 @@
                         <img src="images/products/sliding-doors.png" class="img-responsive"/>
                         <p>In Sliding doors two or more frames slide horizontally on tracks to the left or the right.</p>
                         The doors are slightly raised above the track for smooth slide and also preventing dust from settling down in the track. Sliding doors are ideal for homes that require space-economy. 
-                        ..<a href="#" style="color:blue">know more</a>
+                        ..<a href="sliding-doors.php" style="color:blue">know more</a>
                     </div>
                     <div class="col-md-4">
                         <h5>Bi-Fold Doors</h5>
                         <img src="images/products/bi-fold-door.jpg" class="img-responsive"/>
                         All door frames can be folded to save space and pushed to the side over a total width of upto 6 mt. Fold and Slide doors offer generous and barrier free access to terraces, conservatories, conference rooms, wherever needed. Being equally suited to use as room dividers in hotels and catering establishments, Fold and Slide doors are also being increasingly used in homes. 
-                        ..<a href="#" style="color:blue">know more</a>
+                        ..<a href="bi-fold-doors.php" style="color:blue">know more</a>
                     </div>
                     <div class="col-md-4">
                         <h5>panel door</h5>
                         <img src="images/products/panel-door.jpg" class="img-responsive"/>
                         <p>Making a great first impression on your door step, exclusively designed, khyathi doors are the perfect way to add charm and character to your home.</p>
-                        ..<a href="#" style="color:blue">know more</a>
+                        ..<a href="panel-doors.php" style="color:blue">know more</a>
                     </div>
                 </div>
             </div>

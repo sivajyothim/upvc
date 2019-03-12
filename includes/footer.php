@@ -3,10 +3,10 @@
 
 
     <div class="footer-bottom">
-        <div class="container">
+        <div style="margin-left: 90px;">
             <div class="row">
 
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <h1>Why Khyathi upvc</h1>
                     <span class="line">
                         <span class="sub-line"></span>
@@ -14,7 +14,7 @@
                     <p style="color: #fff;text-transform: capitalize;">High quality profile At an affordable price best reinforcement for stability & security decades of construction industry knowledge personlized & dedicaated service  </p></div>
 
 
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <h1>Quick Links</h1>
                     <span class="line">
                         <span class="sub-line"></span>
@@ -32,15 +32,27 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <h1>Get In Touch</h1>
                     <span class="line">
                         <span class="sub-line"></span>
                     </span>
                     <div style="color: #fff;text-transform: capitalize;">
-                     CALL US :+91 96400 86373<br/>
-                     EMAIL US:office@khyathiupvc.com
+                        CALL US :+91 96400 86373<br/>
+                        EMAIL US:office@khyathiupvc.com
                     </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <h1>our location</h1>
+                    <span class="line">
+                        <span class="sub-line"></span>
+                    </span>
+                    <div class="mapouter">
+                        <iframe width="333" height="180" id="gmap_canvas" src="https://maps.google.com/maps?q=plot%20no%2053%2CBahadurpally%2C%20Hyderabad%2C%20Telangana&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                    </div>
+                    <style>
+                        .mapouter{text-align:right;height:180px;width:333px;}.gmap_canvas {overflow:hidden;background:none!important;height:180px;width:333px;}
+                    </style>
                 </div>
 
             </div><!---- == /row == ---->

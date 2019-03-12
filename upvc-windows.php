@@ -72,14 +72,14 @@
                         <img src="images/products/cascade-window.jpg" class="img-responsive"/>
                         <p>The Casement window opens inwards or outwards with the help of a sash that fixed on outer frame</p>
                         Practical and Simple, designed to suit your home whatever is its style, KHYATHI ENTERPRISEScasement windows are among the most popular window designs…
-                        <a href="#" style="color:blue">know more</a>
+                        <a href="casement-windows.php" style="color:blue">know more</a>
                     </div>
                     <div class="col-md-6">
                         <h5>Sliding Windows</h5>
                         <img src="images/products/sliding-windows.jpg" class="img-responsive"/>
                         <p>In Sliding Window two or more frames slide horizontally on tracks to the left or the right</p>
                         The windows are slightly raised above the track for smooth slide and also preventing dust from settling down in the track. Sliding windows are ideal for homes that require space-economy…
-                        <a href="#" style="color:blue">know more</a>
+                        <a href="sliding-windows.php" style="color:blue">know more</a>
                     </div>
                 </div>
             </div>
